@@ -1,5 +1,10 @@
 ### @codeStart players set @e[tag=game] makecode 0 
 ### @codeStart players set @e[tag=game] makecode 1 
+
+### @flyoutOnly 1
+### @hideIteration true 
+### @explicitHints 1
+
 ### @activities true
 
 
