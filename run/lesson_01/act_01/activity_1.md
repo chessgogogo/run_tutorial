@@ -1,16 +1,16 @@
 ### @activities true
 
-## Introduction
-### Step 1: 欢迎
-@showdialog
-# 欢迎来到 Minecraft Education 教程
-欢迎来到 Minecraft Education，你将学习如何使用 MakeCode 积木编程来创建 Minecraft 中的自动化功能。
+# 给自己一把镐子！
 
-让我们开始第一个任务：当游戏开始时，给自己一把镐子！
+## Introduction
+
+### Step 1: 欢迎
+- 欢迎来到 Minecraft Education
+- 让我们开始第一个任务：当游戏开始时，给自己一把镐子！
 
 ## Activity 1: 给予玩家工具
-### Step 2: 创建开机给予镐子
-现在我们将创建一个程序，当游戏开始时自动给予最近的玩家一把镐子。
+### Step 2: 给予玩家一把镐子
+现在我们将编写一个程序，当游戏开始时自动给予最近的玩家一把镐子。
 
 按照以下步骤操作：
 
