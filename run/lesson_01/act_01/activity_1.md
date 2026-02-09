@@ -1,4 +1,7 @@
+### @codeStart players set @e[tag=game] makecode 0 
+### @codeStart players set @e[tag=game] makecode 1 
 ### @activities true
+
 
 # 给自己一把镐子！
 
