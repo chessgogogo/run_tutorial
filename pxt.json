@@ -8,7 +8,8 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "run/lesson_01/act_01/activity_1.md"
     ],
     "testFiles": [
         "test.ts"
