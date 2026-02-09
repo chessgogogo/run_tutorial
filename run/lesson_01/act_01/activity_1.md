@@ -22,8 +22,12 @@
    - 物品：**镐子**
    - 数量：**1**
 
-```blocks
-loops.onStartup(function () {
-    player.give(mobs.target(NEAREST_PLAYER), PICKAXE, 1)
-})
+
+
+```blocks    
+mobs.give(
+mobs.target(NEAREST_PLAYER),
+WOODEN_PICKAXE,
+1
+)
 ```
